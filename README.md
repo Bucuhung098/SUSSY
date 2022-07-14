@@ -1,7 +1,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "Cracked by cv_ivc";
 	Text = "NO CHILD MODE";
-	Icon = "rbxthumb://type=Asset&id=0000000000&w=150&h=150"})
+	Icon = "rbxthumb://type=Asset&id=9907542946&w=150&h=150"})
 Duration = 16;
 
 
